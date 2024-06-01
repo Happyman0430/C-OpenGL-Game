@@ -1,0 +1,10 @@
+https://github.com/slint-ui/slint/blob/master/examples/memory/memory.cpp /////////  puzzle de Memoria
+
+
+https://copyassignment.com/sudoku-game-in-cpp/   ////////////////////////////  puzzle de sudoku
+
+
+
+https://github.com/SerGreen/TheWitnessPuzzles        ////////////////////////////  puzzle tipo "the witness"
+
+ 
